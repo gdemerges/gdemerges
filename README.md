@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### My skills :
 
-![Swift](https://img.shields.io/badge/-Swift-555?style=flat&logo=swift)&nbsp; </br>
+![Swift](https://img.shields.io/badge/-Swift-555?style=flat&logo=swift)&nbsp; [![swiftui-version](https://img.shields.io/badge/swiftui-beta-brightgreen)](https://developer.apple.com/documentation/swiftui) </br>
 ![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)&nbsp; </br>
 ![HTML](https://img.shields.io/badge/-HTML-555?style=flat&logo=html5)&nbsp; ![CSS](https://img.shields.io/badge/-CSS-555?style=flat&logo=CSS3)&nbsp; 
 
