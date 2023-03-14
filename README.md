@@ -21,8 +21,15 @@ Here are some ideas to get you started:
 
 <h2></h2>
 
+### My skills :
+
 ![Swift](https://img.shields.io/badge/-Swift-555?style=flat&logo=swift)&nbsp; </br>
 ![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)&nbsp; </br>
 ![HTML](https://img.shields.io/badge/-HTML-555?style=flat&logo=html5)&nbsp; ![CSS](https://img.shields.io/badge/-CSS-555?style=flat&logo=CSS3)&nbsp; 
 
 <h2></h2>
+
+### My activity :
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdemerges&layout=compact&theme=radical&show_icons=true)](https://github.com/gdemerges/github-readme-stats)
