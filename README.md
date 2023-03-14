@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 -->
 
-[](https://komarev.com/ghpvc/?username=gdemerges)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guillaume-demerges/)](https://www.linkedin.com/in/guillaume-demerges/) [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:guillaume.demerges@protonmail.com)](mailto:guillaume.demerges@protonmail.com) ![](https://komarev.com/ghpvc/?username=gdemerges)
 
