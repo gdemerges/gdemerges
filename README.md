@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdemerges&layout=compact&theme=radical&show_icons=true)](https://github.com/gdemerges/github-readme-stats)
 -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guillaume-demerges/)](https://www.linkedin.com/in/guillaume-demerges/) [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:guillaume.demerges@protonmail.com)](mailto:guillaume.demerges@protonmail.com) ![](https://komarev.com/ghpvc/?username=gdemerges)
@@ -32,4 +30,4 @@ Here are some ideas to get you started:
 ### My activity :
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdemerges&layout=compact&theme=radical&show_icons=true)](https://github.com/gdemerges/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdemerges&layout=compact&theme=white&show_icons=true)](https://github.com/gdemerges/github-readme-stats)
