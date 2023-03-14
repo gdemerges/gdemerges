@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdemerges&layout=compact&theme=radical&show_icons=true)](https://github.com/gdemerges/github-readme-stats)
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gdemerges&show_icons=true&theme=radical)](https://github.com/gdemerges/github-readme-stats)
 -->
+
+[](https://komarev.com/ghpvc/?username=gdemerges)
+
