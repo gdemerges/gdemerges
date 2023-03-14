@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guillaume-demerges/)](https://www.linkedin.com/in/guillaume-demerges/) [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:guillaume.demerges@protonmail.com)](mailto:guillaume.demerges@protonmail.com) ![](https://komarev.com/ghpvc/?username=gdemerges)
 
+<h2></h2>
+![Swift](https://img.shields.io/badge/-Swift-555?style=flat&logo=git)&nbsp; </br>
+![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)&nbsp; </br>
+![HTML](https://img.shields.io/badge/-HTML-555?style=flat&logo=html5)&nbsp; ![CSS](https://img.shields.io/badge/-CSS-555?style=flat&logo=CSS3)&nbsp; 
