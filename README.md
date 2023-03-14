@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 ### My activity :
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdemerges&layout=compact&theme=white&show_icons=true)](https://github.com/gdemerges/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdemerges&layout=compact&count_private=true&show_icons=true)](https://github.com/gdemerges/github-readme-stats)
