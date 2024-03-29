@@ -34,3 +34,5 @@ Here are some ideas to get you started:
 ### My activity :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdemerges)](https://github.com/gdemerges/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gdemerges)](https://github.com/gdemerges/github-readme-stats)
