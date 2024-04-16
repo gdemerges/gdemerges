@@ -21,6 +21,17 @@ Here are some ideas to get you started:
 
 ### My skills :
 
+<img src='https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg' height="40"/>
+<img src='https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/database/postgresql.svg' height="40"/>
+<img src='https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/azure.svg' height="40"/>
+<img src='https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/github.svg' height="40"/>
+<img src='https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/docker.svg' height="40"/>
+<img src='https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/flask.svg' height="40"/>
+<img src='https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text editors/vscode.svg' height="40"/>
+
+
+
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)&nbsp; </br>
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp; </br>
