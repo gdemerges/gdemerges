@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 
 ### My skills :
 
-<img src='https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg' height="40"/><img src='https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/database/postgresql.svg' height="40"/>
-<img src='https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/database/postgresql.svg' height="40"/>
+<img src='https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg' height="40"/><img src='https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/postgresql.svg' height="40"/>
 <img src='https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/azure.svg' height="40"/>
 <img src='https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/github.svg' height="40"/>
 <img src='https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/docker.svg' height="40"/>
