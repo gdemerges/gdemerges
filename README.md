@@ -31,4 +31,7 @@ Here are some ideas to get you started:
 
 ### My activity :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdemerges)](https://github.com/gdemerges/github-readme-stats) [![Guillaume's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gdemerges)](https://github.com/gdemerges/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdemerges)](https://github.com/gdemerges/github-readme-stats) <br>
+<br>
+<br>
+<br> [![Guillaume's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gdemerges)](https://github.com/gdemerges/github-readme-stats)
