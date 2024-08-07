@@ -36,7 +36,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" style="height: 24px; width: auto; margin: 10px;">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" style="height: 24px; width: auto; margin: 10px;">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" style="height: 24px; width: auto; margin: 10px;">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white" style="height: 24px; width: auto; margin: 10px;">
   <img src="https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white" style="height: 24px; width: auto; margin: 10px;">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" style="height: 24px; width: auto; margin: 10px;">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" style="height: 24px; width: auto; margin: 10px;">
