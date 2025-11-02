@@ -19,21 +19,31 @@ Here are some ideas to get you started:
 
 <h2></h2>
 
-### My skills :
+### About me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" style="height: 24px; width: auto; margin: 10px;">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" style="height: 24px; width: auto; margin: 10px;">
-  <img src="https://img.shields.io/badge/-Scrapy-417598?style=flat&logo=scrapy&logoColor=white" style="height: 24px; width: auto; margin: 10px;">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white" style="height: 24px; width: auto; margin: 10px;">
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" style="height: 24px; width: auto; margin: 10px;">
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white" style="height: 24px; width: auto; margin: 10px;">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" style="height: 24px; width: auto; margin: 10px;">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" style="height: 24px; width: auto; margin: 10px;">
-</p>
-<h2></h2>
+I'm Guillaume, a Data Engineer passionate about AI, automation and data pipelines.  
+Currently working at [CNAF](https://www.caf.fr) and studying for a Mastère Data Engineer at Ynov.  
+I love building end-to-end data architectures, from web scraping to machine learning and cloud deployment.
 
-### My activity :
+### Tech Stack
+
+- **Languages:** Python, SQL, Swift  
+- **Frameworks & Tools:** FastAPI, Streamlit, TensorFlow, Docker  
+- **Cloud:** Azure
+- **Databases:** PostgreSQL, MySQL  
+- **DevOps:** GitHub Actions, Docker Compose
+
+### Projects
+
+- [Discord AI Bot](https://github.com/gdemerges/bot_ai) — Discord Bot with OpenAI integration  
+- [EcoDiet](https://github.com/gdemerges/ecodiet) — Nutrition recommender powered by data and AI
+
+### My activity
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdemerges)](https://github.com/gdemerges/github-readme-stats)
+
+### Beyond Tech
+
+When I'm not coding, you’ll probably find me:
+- Training for my next 10 km or half marathon 
+- Going to concerts and music festivals
+- Reading Isaac Asimov’s books or watching sci-fi classics
