@@ -26,15 +26,15 @@ I love building end-to-end data architectures, from web scraping to machine lear
 
 #### Projects
 
-🤖 [Discord AI Bot](https://github.com/gdemerges/bot_ai) — Discord Bot with OpenAI integration  
-🥗 [EcoDiet](https://github.com/gdemerges/ecodiet) — Nutrition recommender powered by data and AI
+[Discord AI Bot](https://github.com/gdemerges/bot_ai) — Discord Bot with OpenAI integration  
+[EcoDiet](https://github.com/gdemerges/ecodiet) — Nutrition recommender powered by data and AI
 
 </td>
 <td width="50%" valign="top">
 
 #### My Activity
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdemerges&layout=compact&theme=tokyonight)](https://github.com/gdemerges)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdemerges&layout=compact)](https://github.com/gdemerges)
 
 </td>
 </tr>
