@@ -27,7 +27,7 @@ I love building end-to-end data architectures, from web scraping to machine lear
 #### Projects
 
 [Discord AI Bot](https://github.com/gdemerges/bot_ai) — Discord Bot with OpenAI integration  
-[EcoDiet](https://github.com/gdemerges/ecodiet) — Nutrition recommender powered by data and AI
+[EcoDiet](https://github.com/gdemerges/ecodiet_ios) — Nutrition recommender powered by data and AI
 
 </td>
 <td width="50%" valign="top">
