@@ -34,7 +34,7 @@ I love building end-to-end data architectures, from web scraping to machine lear
 
 #### My Activity
 
-[![Top Langs](https://github-readme-stats-six-fawn-71.vercel.app/api/top-langs/?username=gdemerges&layout=compact&cache_seconds=1800)](https://github.com/gdemerges)
+[![Top Langs](https://github-readme-stats-six-fawn-71.vercel.app/api/top-langs/?username=gdemerges&layout=compact&cache_seconds=1800&v=2)](https://github.com/gdemerges)
 
 </td>
 </tr>
