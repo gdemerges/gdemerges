@@ -13,7 +13,6 @@ Currently building RAG architectures and data infrastructure at [CNAF](https://w
 I love designing end-to-end systems — from web scraping and ETL to vector search and cloud deployment.
 
 ### Tech Stack
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
@@ -22,10 +21,12 @@ I love designing end-to-end systems — from web scraping and ETL to vector sear
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
 
 - **Languages:** Python, SQL, Swift
 - **Frameworks & Tools:** FastAPI, Streamlit, Airflow
 - **Data & AI:** PostgreSQL / pgvector, RAG pipelines, TensorFlow
+- **AI Tooling:** Claude Code, prompt engineering, agentic workflows
 - **Cloud & DevOps:** Azure, Docker, Docker Compose, GitHub Actions
 
 ### Projects & Activity
