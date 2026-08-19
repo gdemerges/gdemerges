@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Guillaume 👋</h1>
 <p align="center"><i>Data Engineer · AI · Data Pipelines</i></p>
-<p align="center">Je construis des pipelines de données et des architectures RAG en production, de l'ingestion jusqu'au déploiement cloud.</p>
+<p align="center">I build production data pipelines and RAG architectures, from ingestion to cloud deployment.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/guillaume-demerges/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
