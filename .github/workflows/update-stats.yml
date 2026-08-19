@@ -1,0 +1,44 @@
+name: Update README stats
+
+on:
+  schedule:
+    - cron: '17 4 * * *'   # every day at 04:17 UTC
+  workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/generate_stats.py'
+      - '.github/workflows/update-stats.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-stats
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generate stat cards
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/generate_stats.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name  'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          if git diff --quiet -- '*.svg'; then
+            echo 'No change in the stat cards.'
+            exit 0
+          fi
+          git add '*.svg'
+          git commit -m 'chore: refresh README stat cards'
+          git push

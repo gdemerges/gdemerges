@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="179" viewBox="0 0 440 179" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif">
+  <rect x="0.5" y="0.5" width="439" height="178" rx="6"
+        fill="#FFFFFF" stroke="#D0D7DE"/>
+  <text x="25" y="35" font-size="16" font-weight="600" fill="#0969DA">gdemerges's GitHub stats</text>
+  <text x="25" y="70" font-size="13" fill="#1F2328">Public repositories</text>
+  <text x="415" y="70" font-size="13" font-weight="700" text-anchor="end" fill="#0969DA">26</text>
+  <text x="25" y="96" font-size="13" fill="#1F2328">Contributions (last year)</text>
+  <text x="415" y="96" font-size="13" font-weight="700" text-anchor="end" fill="#0969DA">892</text>
+  <text x="25" y="122" font-size="13" fill="#1F2328">Commits (last year)</text>
+  <text x="415" y="122" font-size="13" font-weight="700" text-anchor="end" fill="#0969DA">502</text>
+  <text x="25" y="148" font-size="13" fill="#1F2328">Pull requests (last year)</text>
+  <text x="415" y="148" font-size="13" font-weight="700" text-anchor="end" fill="#0969DA">9</text>
+</svg>

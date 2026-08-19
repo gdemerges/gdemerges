@@ -24,33 +24,29 @@ I love designing end-to-end systems — from web scraping and ETL to vector sear
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
 
-### Projects & Activity
+### Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| Project | Stack | What it does |
+|:--------|:------|:-------------|
+| [**Benji**](https://github.com/gdemerges/Benji) | Python · Whisper · Qt | Real-time on-device speech-to-text subtitles, overlaid on screen. Optimized for Apple Silicon (Whisper via MLX) |
+| [**Wello**](https://github.com/gdemerges/wello-ios) | Swift · SwiftUI · HealthKit | Hydration tracker whose daily goal is computed from HealthKit activity, weather and medical context. 100% on-device |
+| [**WhatsApp Wrapped**](https://github.com/gdemerges/wrapped_whatsapp) | Vanilla JS · Chart.js | Spotify-Wrapped-style analytics for your WhatsApp chats, 100% client-side |
+| [**EcoDiet**](https://github.com/gdemerges/ecodiet_ios) | Swift · AI | Data- and AI-powered nutrition recommender |
 
-<h4>Featured Projects</h4>
+### Activity
 
-<ul>
-<li><a href="https://github.com/gdemerges/Benji">Benji</a> — Real-time on-device speech-to-text subtitles, overlaid on screen. Optimized for Apple Silicon (Whisper via MLX) · <i>Python · Whisper · Qt</i></li>
-<li><a href="https://github.com/gdemerges/wello-ios">Wello</a> — Personal hydration tracker: daily goal computed from HealthKit activity, weather and medical context. 100% on-device · <i>Swift · SwiftUI · HealthKit</i></li>
-<li><a href="https://github.com/gdemerges/wrapped_whatsapp">WhatsApp Wrapped</a> — Spotify-Wrapped-style analytics for your WhatsApp chats, 100% client-side · <i>Vanilla JS · Chart.js</i></li>
-<li><a href="https://github.com/gdemerges/ecodiet_ios">EcoDiet</a> — Data- and AI-powered nutrition recommender · <i>Swift · AI</i></li>
-</ul>
-
-</td>
-<td width="50%" valign="top">
-
-<h4>My Activity</h4>
-
-<a href="https://github.com/gdemerges">
-<img src="https://github-readme-stats-six-fawn-71.vercel.app/api/top-langs/?username=gdemerges&layout=compact&cache_seconds=1800" alt="Most used languages by gdemerges" />
-</a>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="stats-light.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="stats.svg" />
+    <img src="stats.svg" width="49%" alt="GitHub stats for gdemerges" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="languages-light.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="languages.svg" />
+    <img src="languages.svg" width="49%" alt="Most used languages by gdemerges" />
+  </picture>
+</p>
 
 ### Beyond Tech
 
