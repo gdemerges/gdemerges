@@ -163,10 +163,12 @@ def render_langs(data, theme):
         )
         x += seg
 
-    # Two-column legend.
-    y = 95
+    # Two-column legend, filled column by column: top to bottom, then left to right.
+    top_y, row_h = 95, 24
+    rows = (len(top) + 1) // 2
     for i, (name, size) in enumerate(top):
-        col_x = 25 if i % 2 == 0 else 225
+        col_x = 25 if i < rows else 225
+        y = top_y + (i % rows) * row_h
         color = LANG_COLORS.get(name, FALLBACK_LANG_COLOR)
         pct = 100 * size / total
         body.append(
@@ -174,12 +176,8 @@ def render_langs(data, theme):
             f'  <text x="{col_x + 18}" y="{y}" font-size="12" fill="{theme["text"]}">'
             f'{esc(name)} <tspan fill="{theme["muted"]}">{pct:.1f}%</tspan></text>'
         )
-        if i % 2 == 1:
-            y += 24
-    if len(top) % 2 == 1:
-        y += 24
 
-    return frame(440, y + 5, theme, "Most used languages", "\n".join(body))
+    return frame(440, top_y + rows * row_h + 5, theme, "Most used languages", "\n".join(body))
 
 
 def main():
