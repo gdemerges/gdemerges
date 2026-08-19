@@ -1,9 +1,10 @@
 <h1 align="center">Hello, I'm Guillaume 👋</h1>
 <p align="center"><i>Data Engineer · AI · Data Pipelines</i></p>
+<p align="center">Je construis des pipelines de données et des architectures RAG en production, de l'ingestion jusqu'au déploiement cloud.</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/guillaume-demerges/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>
-  <a href="mailto:guillaume.demerges@protonmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Protonmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/guillaume-demerges/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:guillaume.demerges@protonmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Protonmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ### About me
@@ -23,12 +24,6 @@ I love designing end-to-end systems — from web scraping and ETL to vector sear
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
 
-- **Languages:** Python, SQL, Swift
-- **Frameworks & Tools:** FastAPI, Streamlit, Airflow
-- **Data & AI:** PostgreSQL / pgvector, RAG pipelines, TensorFlow
-- **AI Tooling:** Claude Code, prompt engineering, agentic workflows
-- **Cloud & DevOps:** Azure, Docker, Docker Compose, GitHub Actions
-
 ### Projects & Activity
 
 <table>
@@ -39,7 +34,7 @@ I love designing end-to-end systems — from web scraping and ETL to vector sear
 
 <ul>
 <li><a href="https://github.com/gdemerges/Benji">Benji</a> — Real-time on-device speech-to-text subtitles, overlaid on screen. Optimized for Apple Silicon (Whisper via MLX) · <i>Python · Whisper · Qt</i></li>
-<li><a href="https://github.com/gdemerges/hub_data">Hub Life</a> — Personal data dashboard (games, films, sport, travel…) with custom Strava training analysis · <i>Next.js · TypeScript · Tailwind</i></li>
+<li><a href="https://github.com/gdemerges/wello-ios">Wello</a> — Personal hydration tracker: daily goal computed from HealthKit activity, weather and medical context. 100% on-device · <i>Swift · SwiftUI · HealthKit</i></li>
 <li><a href="https://github.com/gdemerges/wrapped_whatsapp">WhatsApp Wrapped</a> — Spotify-Wrapped-style analytics for your WhatsApp chats, 100% client-side · <i>Vanilla JS · Chart.js</i></li>
 <li><a href="https://github.com/gdemerges/ecodiet_ios">EcoDiet</a> — Data- and AI-powered nutrition recommender · <i>Swift · AI</i></li>
 </ul>
@@ -50,7 +45,7 @@ I love designing end-to-end systems — from web scraping and ETL to vector sear
 <h4>My Activity</h4>
 
 <a href="https://github.com/gdemerges">
-<img src="https://github-readme-stats-six-fawn-71.vercel.app/api/top-langs/?username=gdemerges&layout=compact&cache_seconds=1800" />
+<img src="https://github-readme-stats-six-fawn-71.vercel.app/api/top-langs/?username=gdemerges&layout=compact&cache_seconds=1800" alt="Most used languages by gdemerges" />
 </a>
 
 </td>
