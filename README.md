@@ -11,7 +11,7 @@
 
 Data Engineer passionate about AI, automation and data pipelines.
 Currently building RAG architectures and data infrastructure at [CNAF](https://www.caf.fr), while studying for a Mastère Data Engineer at Ynov.
-I love designing end-to-end systems — from web scraping and ETL to vector search and cloud deployment.
+I love designing end-to-end systems, from web scraping and ETL to vector search and cloud deployment.
 
 ### Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
