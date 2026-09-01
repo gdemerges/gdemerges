@@ -3,22 +3,22 @@
         fill="#0D1117" stroke="#30363D"/>
   <text x="25" y="35" font-size="16" font-weight="600" fill="#58A6FF">Most used languages</text>
   <rect x="25" y="55" width="390.0" height="10" rx="5" fill="#21262D"/>
-  <rect x="25.00" y="55" width="129.51" height="10" fill="#3572A5"/>
-  <rect x="154.51" y="55" width="96.47" height="10" fill="#F05138"/>
-  <rect x="250.98" y="55" width="89.63" height="10" fill="#DA5B0B"/>
-  <rect x="340.61" y="55" width="50.76" height="10" fill="#F1E05A"/>
-  <rect x="391.37" y="55" width="21.29" height="10" fill="#3178C6"/>
-  <rect x="412.66" y="55" width="2.34" height="10" fill="#E38C00"/>
+  <rect x="25.00" y="55" width="129.39" height="10" fill="#3572A5"/>
+  <rect x="154.39" y="55" width="91.07" height="10" fill="#F05138"/>
+  <rect x="245.47" y="55" width="84.62" height="10" fill="#DA5B0B"/>
+  <rect x="330.09" y="55" width="62.60" height="10" fill="#F1E05A"/>
+  <rect x="392.69" y="55" width="20.10" height="10" fill="#3178C6"/>
+  <rect x="412.79" y="55" width="2.21" height="10" fill="#E38C00"/>
   <circle cx="30" cy="91" r="5" fill="#3572A5"/>
   <text x="43" y="95" font-size="12" fill="#C9D1D9">Python <tspan fill="#8B949E">33.2%</tspan></text>
   <circle cx="30" cy="115" r="5" fill="#F05138"/>
-  <text x="43" y="119" font-size="12" fill="#C9D1D9">Swift <tspan fill="#8B949E">24.7%</tspan></text>
+  <text x="43" y="119" font-size="12" fill="#C9D1D9">Swift <tspan fill="#8B949E">23.4%</tspan></text>
   <circle cx="30" cy="139" r="5" fill="#DA5B0B"/>
-  <text x="43" y="143" font-size="12" fill="#C9D1D9">Jupyter Notebook <tspan fill="#8B949E">23.0%</tspan></text>
+  <text x="43" y="143" font-size="12" fill="#C9D1D9">Jupyter Notebook <tspan fill="#8B949E">21.7%</tspan></text>
   <circle cx="230" cy="91" r="5" fill="#F1E05A"/>
-  <text x="243" y="95" font-size="12" fill="#C9D1D9">JavaScript <tspan fill="#8B949E">13.0%</tspan></text>
+  <text x="243" y="95" font-size="12" fill="#C9D1D9">JavaScript <tspan fill="#8B949E">16.1%</tspan></text>
   <circle cx="230" cy="115" r="5" fill="#3178C6"/>
-  <text x="243" y="119" font-size="12" fill="#C9D1D9">TypeScript <tspan fill="#8B949E">5.5%</tspan></text>
+  <text x="243" y="119" font-size="12" fill="#C9D1D9">TypeScript <tspan fill="#8B949E">5.2%</tspan></text>
   <circle cx="230" cy="139" r="5" fill="#E38C00"/>
   <text x="243" y="143" font-size="12" fill="#C9D1D9">SQL <tspan fill="#8B949E">0.6%</tspan></text>
 </svg>
