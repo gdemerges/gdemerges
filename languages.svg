@@ -3,22 +3,22 @@
         fill="#0D1117" stroke="#30363D"/>
   <text x="25" y="35" font-size="16" font-weight="600" fill="#58A6FF">Most used languages</text>
   <rect x="25" y="55" width="390.0" height="10" rx="5" fill="#21262D"/>
-  <rect x="25.00" y="55" width="123.65" height="10" fill="#3572A5"/>
-  <rect x="148.65" y="55" width="93.69" height="10" fill="#F05138"/>
-  <rect x="242.35" y="55" width="86.47" height="10" fill="#DA5B0B"/>
-  <rect x="328.82" y="55" width="69.89" height="10" fill="#F1E05A"/>
-  <rect x="398.71" y="55" width="14.03" height="10" fill="#3178C6"/>
-  <rect x="412.74" y="55" width="2.26" height="10" fill="#E38C00"/>
+  <rect x="25.00" y="55" width="114.55" height="10" fill="#3572A5"/>
+  <rect x="139.55" y="55" width="93.46" height="10" fill="#F1E05A"/>
+  <rect x="233.01" y="55" width="86.79" height="10" fill="#F05138"/>
+  <rect x="319.80" y="55" width="80.10" height="10" fill="#DA5B0B"/>
+  <rect x="399.91" y="55" width="13.00" height="10" fill="#3178C6"/>
+  <rect x="412.90" y="55" width="2.10" height="10" fill="#E38C00"/>
   <circle cx="30" cy="91" r="5" fill="#3572A5"/>
-  <text x="43" y="95" font-size="12" fill="#C9D1D9">Python <tspan fill="#8B949E">31.7%</tspan></text>
-  <circle cx="30" cy="115" r="5" fill="#F05138"/>
-  <text x="43" y="119" font-size="12" fill="#C9D1D9">Swift <tspan fill="#8B949E">24.0%</tspan></text>
-  <circle cx="30" cy="139" r="5" fill="#DA5B0B"/>
-  <text x="43" y="143" font-size="12" fill="#C9D1D9">Jupyter Notebook <tspan fill="#8B949E">22.2%</tspan></text>
-  <circle cx="230" cy="91" r="5" fill="#F1E05A"/>
-  <text x="243" y="95" font-size="12" fill="#C9D1D9">JavaScript <tspan fill="#8B949E">17.9%</tspan></text>
+  <text x="43" y="95" font-size="12" fill="#C9D1D9">Python <tspan fill="#8B949E">29.4%</tspan></text>
+  <circle cx="30" cy="115" r="5" fill="#F1E05A"/>
+  <text x="43" y="119" font-size="12" fill="#C9D1D9">JavaScript <tspan fill="#8B949E">24.0%</tspan></text>
+  <circle cx="30" cy="139" r="5" fill="#F05138"/>
+  <text x="43" y="143" font-size="12" fill="#C9D1D9">Swift <tspan fill="#8B949E">22.3%</tspan></text>
+  <circle cx="230" cy="91" r="5" fill="#DA5B0B"/>
+  <text x="243" y="95" font-size="12" fill="#C9D1D9">Jupyter Notebook <tspan fill="#8B949E">20.5%</tspan></text>
   <circle cx="230" cy="115" r="5" fill="#3178C6"/>
-  <text x="243" y="119" font-size="12" fill="#C9D1D9">TypeScript <tspan fill="#8B949E">3.6%</tspan></text>
+  <text x="243" y="119" font-size="12" fill="#C9D1D9">TypeScript <tspan fill="#8B949E">3.3%</tspan></text>
   <circle cx="230" cy="139" r="5" fill="#E38C00"/>
-  <text x="243" y="143" font-size="12" fill="#C9D1D9">SQL <tspan fill="#8B949E">0.6%</tspan></text>
+  <text x="243" y="143" font-size="12" fill="#C9D1D9">SQL <tspan fill="#8B949E">0.5%</tspan></text>
 </svg>
