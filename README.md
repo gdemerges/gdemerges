@@ -14,11 +14,18 @@ Currently building RAG architectures and data infrastructure at [CNAF](https://w
 I love designing end-to-end systems, from web scraping and ETL to vector search and cloud deployment.
 
 ### Tech Stack
+
+**Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+
+**Data & ML**
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+**Infra & Tools**
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
@@ -31,7 +38,7 @@ I love designing end-to-end systems, from web scraping and ETL to vector search 
 | [**Benji**](https://github.com/gdemerges/Benji) | Python · Whisper · Qt | Real-time on-device speech-to-text subtitles, overlaid on screen. Optimized for Apple Silicon (Whisper via MLX) |
 | [**Wello**](https://github.com/gdemerges/wello-ios) | Swift · SwiftUI · HealthKit | Hydration tracker whose daily goal is computed from HealthKit activity, weather and medical context. 100% on-device |
 | [**WhatsApp Wrapped**](https://github.com/gdemerges/wrapped_whatsapp) | Vanilla JS · Chart.js | Spotify-Wrapped-style analytics for your WhatsApp chats, 100% client-side |
-| [**EcoDiet**](https://github.com/gdemerges/ecodiet_ios) | Swift · AI | Data- and AI-powered nutrition recommender |
+| [**Trace**](https://github.com/gdemerges/trace-token-carbon) | Rust | Token usage, rate limits and carbon footprint tracker for AI models |
 
 ### Activity
 
@@ -39,12 +46,12 @@ I love designing end-to-end systems, from web scraping and ETL to vector search 
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="stats-light.svg" />
     <source media="(prefers-color-scheme: dark)" srcset="stats.svg" />
-    <img src="stats.svg" width="49%" alt="GitHub stats for gdemerges" />
+    <img src="stats.svg" width="49%" alt="GitHub statistics for gdemerges: total stars, commits, PRs and issues" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="languages-light.svg" />
     <source media="(prefers-color-scheme: dark)" srcset="languages.svg" />
-    <img src="languages.svg" width="49%" alt="Most used languages by gdemerges" />
+    <img src="languages.svg" width="49%" alt="Breakdown of most used programming languages across gdemerges' repositories" />
   </picture>
 </p>
 
