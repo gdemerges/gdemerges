@@ -18,12 +18,14 @@ I love designing end-to-end systems, from web scraping and ETL to vector search 
 **Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 
 **Data & ML**
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 **Infra & Tools**
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -38,7 +40,7 @@ I love designing end-to-end systems, from web scraping and ETL to vector search 
 | [**Benji**](https://github.com/gdemerges/Benji) | Python · Whisper · Qt | Real-time on-device speech-to-text subtitles, overlaid on screen. Optimized for Apple Silicon (Whisper via MLX) |
 | [**Wello**](https://github.com/gdemerges/wello-ios) | Swift · SwiftUI · HealthKit | Hydration tracker whose daily goal is computed from HealthKit activity, weather and medical context. 100% on-device |
 | [**WhatsApp Wrapped**](https://github.com/gdemerges/wrapped_whatsapp) | Vanilla JS · Chart.js | Spotify-Wrapped-style analytics for your WhatsApp chats, 100% client-side |
-| [**Trace**](https://github.com/gdemerges/trace-token-carbon) | Rust | Token usage, rate limits and carbon footprint tracker for AI models |
+| [**Trace**](https://github.com/gdemerges/trace-token-carbon) | Rust · JavaScript | Token usage, rate limits and carbon footprint tracker for AI models |
 
 ### Activity
 
