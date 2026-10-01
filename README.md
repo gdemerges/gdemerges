@@ -42,7 +42,7 @@ I love designing end-to-end systems, from web scraping and ETL to vector search 
 |:--------|:------|:-------------|
 | [**Benji**](https://github.com/gdemerges/Benji) | Python · Whisper · Qt | Real-time on-device speech-to-text subtitles, overlaid on screen. Optimized for Apple Silicon (Whisper via MLX) |
 | [**Wello**](https://github.com/gdemerges/wello-ios) | Swift · SwiftUI · HealthKit | Hydration tracker whose daily goal is computed from HealthKit activity, weather and medical context. 100% on-device |
-| [**WhatsApp Wrapped**](https://github.com/gdemerges/chatwrap) | Vanilla JS · Chart.js | Spotify-Wrapped-style analytics for your WhatsApp chats, 100% client-side |
+| [**Chatwrap**](https://github.com/gdemerges/chatwrap) | Vanilla JS · Chart.js | Turns your WhatsApp chats into an animated, Wrapped-style recap, 100% client-side |
 | [**Trace**](https://github.com/gdemerges/trace-token-carbon) | Rust · JavaScript | Token usage, rate limits and carbon footprint tracker for AI models |
 
 ### Activity
